@@ -2,7 +2,7 @@
 this is an overview of working devices by MAD-Users.
 
 | Modelname | OS | Magiskversion | Effort | Notes |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Samsung XCover4 | Stock (Android 7.1) | v18 | easy | - |
 | Samsung Galaxy S4 | LineageOS 14.1 | v17.1 | mid | Laggy |
 | Samsung Galaxy S4 - Mini | LineageOS 14.1 | v17.1 | mid | Laggy |
