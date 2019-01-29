@@ -1,7 +1,7 @@
 # MAD - supported-devices - reported by user
 this is an overview of working devices by MAD-Users.
 
->> [Map-a-Droid Repository](https://github.com/Map-A-Droid/MAD)
+> [Map-a-Droid Repository](https://github.com/Map-A-Droid/MAD)
 
 | Modelname | OS | Magiskversion | Effort | Notes |
 | --- | --- | --- | --- | --- |
