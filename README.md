@@ -1,6 +1,8 @@
 # MAD - supported-devices - reported by user
 this is an overview of working devices by MAD-Users.
 
+>> [Map-a-Droid Repository](https://github.com/Map-A-Droid/MAD)
+
 | Modelname | OS | Magiskversion | Effort | Notes |
 | --- | --- | --- | --- | --- |
 | Samsung XCover4 | Stock (Android 7.1) | v18 | easy | - |
