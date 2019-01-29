@@ -1,5 +1,5 @@
-# MAD - supported-devices - reported by user
-this is an overview of working devices by MAD-Users.
+# MAD - supported-devices
+this is an overview of working devices reported by MAD-Users.
 
 | Modelname | OS | Magiskversion | Effort | Notes |
 | --- | --- | --- | --- | --- |
