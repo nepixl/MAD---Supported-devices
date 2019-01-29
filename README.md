@@ -1,8 +1,6 @@
 # MAD - supported-devices - reported by user
 this is an overview of working devices by MAD-Users.
 
-> [Map-a-Droid Repository](https://github.com/Map-A-Droid/MAD)
-
 | Modelname | OS | Magiskversion | Effort | Notes |
 | --- | --- | --- | --- | --- |
 | Samsung XCover4 | Stock (Android 7.1) | v18 | easy | - |
@@ -13,3 +11,5 @@ this is an overview of working devices by MAD-Users.
 | Redmi 5A | LineageOS 15.1 | v18 | easy | - |
 | Motorola - G4 | LineageOS 15.1 | v18 | mid | - |
 | HTC One -  M7 | LineageOS 14.1 | v18 | mid | Heat |
+
+> [Map-a-Droid Repository](https://github.com/Map-A-Droid/MAD)
