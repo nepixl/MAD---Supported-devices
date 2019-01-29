@@ -12,4 +12,6 @@ this is an overview of working devices reported by MAD-Users.
 | Motorola - G4 | LineageOS 15.1 | v18 | mid | - |
 | HTC One -  M7 | LineageOS 14.1 | v18 | mid | Heat |
 
-> [Map-a-Droid Repository](https://github.com/Map-A-Droid/MAD)
+## Feel free to PR your working device
+
+## [Map-a-Droid Repository](https://github.com/Map-A-Droid/MAD)
